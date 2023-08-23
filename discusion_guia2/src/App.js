@@ -11,7 +11,7 @@ const App = () => {
     <div className='bg-black-alpha-30'>
     <div className='grid bg-white-alpha-70'>
     <div className="col-8 col-offset-2">
-      <div className="card border-300 surface-overlay border-3 border-round hover:surface-200" >
+      <div className="card border-300 surface-overlay border-3 border-round" >
         <ProductList />
       </div>
     </div>
